@@ -1,8 +1,8 @@
-#Groceries price 
-## Ralphs
+Groceries price 
+# Ralphs
 * $3.0
-## El Super
+# El Super
 * $2.50
-## Northgate 
+# Northgate 
 * $2.50
 
